@@ -34,9 +34,9 @@ function draw() {
 
   paper.display();
   ground.display();
-  leftSide.display();
+  
   bottom.display();
-  rightSide.display();
+  
 
   
   drawSprites();
